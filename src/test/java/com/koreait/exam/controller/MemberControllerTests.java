@@ -1,4 +1,4 @@
-package com.koreait.exam.springbatch_app_10.controller;
+package com.koreait.exam.controller;
 
 import com.koreait.exam.springbatch_app_10.app.member.MemberService;
 import com.koreait.exam.springbatch_app_10.app.member.controller.MemberController;
